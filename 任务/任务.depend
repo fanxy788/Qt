@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1523147032 source:c:\lessons\任务\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"quicksort.h"
+
+1523100507 c:\lessons\任务\quicksort.h
+
+1523145591 source:c:\lessons\任务\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"quicksort.h"
+

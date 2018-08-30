@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523780087 source:c:\lessons\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"BubbleSort.h"
+
+1523779251 source:c:\lessons\bubblesort\bubblesort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"BubbleSort.h"
+
+1523778208 c:\lessons\bubblesort\bubblesort.h
+

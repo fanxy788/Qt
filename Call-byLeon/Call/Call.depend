@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1525430207 source:c:\lessons\call\main.cpp
+	"Call.h"
+	<stdlib.h>
+	<iostream>
+
+1523379468 c:\lessons\call\sqlite3.h
+	<stdarg.h>
+
+1523379468 c:\sqlite\sqlite-amalgamation-3230100\sqlite3.h
+	<stdarg.h>
+
+1525430374 source:c:\lessons\call\call.cpp
+	"Call.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1525424158 c:\lessons\call\call.h
+	"sqlite3.h"
+	<string>
+
+1525446128 source:c:\lessons\call-byleon\call\call.cpp
+	"Call.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1525444476 c:\lessons\call-byleon\call\call.h
+	"sqlite3.h"
+	<string>
+
+1525447658 source:c:\lessons\call-byleon\call\main.cpp
+	"Call.h"
+	<stdlib.h>
+	<iostream>
+
