@@ -1,0 +1,17 @@
+﻿QTableView {
+        border: 1px solid rgb(50, 50, 50);
+        background: rgb(57, 58, 60);
+        gridline-color: rgb(60, 60, 60);
+}
+QTableView::item {
+        border: none;
+        border-bottom: 1px solid rgb(50, 50, 50);
+}
+QTableView::item:selected {
+        background: rgb(0, 160, 230);
+}
+QTableView::indicator {
+        width: 17px;
+        height: 17px;
+}
+
